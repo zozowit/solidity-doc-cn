@@ -8,9 +8,8 @@
 概述
 ************
 
-This guide is intended to provide coding conventions for writing solidity code.
-This guide should be thought of as an evolving document that will change over
-time as useful conventions are found and old conventions are rendered obsolete.
+本指南将提供solidity的编码规范。
+本指南将随时废弃一些老的规范并更新一些新的规范。
 
 Many projects will implement their own style guides.  In the event of
 conflicts, project specific style guides take precedence.
